@@ -1,0 +1,1 @@
+Este código tem como finalidade pegar o token e x-stateless-open enviado pelo header numa requisição (uma requisição pelo postaman por exemplo)
